@@ -6,7 +6,7 @@
 | --- | --- | ------------- |
 |OpenAiKey|4588cf7bbad5490ea3d9a0e9fb5f139f|  <br>You can get the OpenAI Key from Azure Portal for your deployed OpenAI service.
 |OpenAiService|azccogadvance12aoai|
-|OpenAiEndPoint|https://azccogadvance12aoai.openai.azure.com/ <br>(https://<yourresource>.openai.azure.com/)|
+|OpenAiEndPoint|https://azccogadvance12aoai.openai.azure.com/| <br>(https://<yourresource>.openai.azure.com/)|
 |OpenAiVersion|2022-12-01|API Version of the Azure OpenAI
 |OpenAiDavinci|davinci|Deployment name of text-davinci-003 <br>model in Azure OpenAI
 |OpenAiEmbedding|text-embedding-ada-002|Deployment name of <br>text-embedding-ada-002 model in Azure OpenAI
